@@ -16,7 +16,7 @@ public class Test {
 	/**
 	 * 프로그램의 시작이 되는 메소드
 	 * @param args
-	 */
+	 */            
 	public static void main(String[] args) {
 		//기본 출력문
 		//sysout : ctrl + space
