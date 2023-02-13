@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Ex04_InputOperator {
 public static void main(String[] args) {
-	Scanner sc = new Scanner(System.in)
-			;
+	Scanner sc = new Scanner(System.in);
+			
 	System.out.print("x : ");
 	int x = sc.nextInt();
 	System.out.print("y : ");
